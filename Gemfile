@@ -23,6 +23,9 @@ gem 'puma', '~> 3.7'
 #
 gem 'ember-cli-rails'
 
+gem 'devise'
+gem 'simple_token_authentication', '~> 1.0'
+
 # Use Capistrano for deployment
 # gem 'capistrano-rails', group: :development
 
